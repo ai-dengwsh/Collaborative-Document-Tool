@@ -165,9 +165,6 @@ MIT License - 详见 [LICENSE](LICENSE) 文件
 - UI 设计师 👨‍🎨
 - 测试工程师 👩‍🔬
 
-## 📞 联系我们
-
-- 📱 Twitter: [@example]([https://twitter.com/example](https://x.com/findshan1))
 
 ## 🌟 特别感谢
 
