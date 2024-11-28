@@ -167,9 +167,7 @@ MIT License - 详见 [LICENSE](LICENSE) 文件
 
 ## 📞 联系我们
 
-- 📧 Email: support@example.com
-- 💬 Discord: [加入我们的 Discord](https://discord.gg/example)
-- 📱 Twitter: [@example](https://twitter.com/example)
+- 📱 Twitter: [@findshan]([https://twitter.com/example](https://x.com/findshan1))
 
 ## 🌟 特别感谢
 
