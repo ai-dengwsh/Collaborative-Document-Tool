@@ -167,7 +167,7 @@ MIT License - 详见 [LICENSE](LICENSE) 文件
 
 ## 📞 联系我们
 
-- 📱 Twitter: [@findshan]([https://twitter.com/example](https://x.com/findshan1))
+- 📱 Twitter: [@example]([https://twitter.com/example](https://x.com/findshan1))
 
 ## 🌟 特别感谢
 
